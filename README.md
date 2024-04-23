@@ -45,4 +45,6 @@ if you want to run the other task, copy the line below, but just change the name
 ros2 topic list (to see the topics of the robot - thymio0) <br>
 rqt
 
+## Video of working demo
+
 

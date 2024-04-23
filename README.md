@@ -46,5 +46,4 @@ ros2 topic list (to see the topics of the robot - thymio0) <br>
 rqt
 
 ## Video of working demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dq2C29SGfVg?si=heOq3GB3yGj1SZ0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)]([https://www.youtube.com/watch?v=jXnoFqcAkQA](https://www.youtube.com/embed/Dq2C29SGfVg?si=heOq3GB3yGj1SZ0t))
